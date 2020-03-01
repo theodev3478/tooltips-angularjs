@@ -2,7 +2,7 @@
   "name": "angularjs-tooltips-theo",
   "description": "Tooltip Directive For AngularJS",
   "version": "1.0.0",
-  "homepage": "",
+  "homepage": "https://github.com/theodev3478/tooltips-angularjs",
   "repository": {
     "type": "git",
     "url": "git://github.com/theodev3478/tooltips-angularjs.git"
@@ -36,7 +36,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "^1.4.0"
-  },
-  "private": true
+    "angular": "^1.4.0",
+    "jquery": "jquery/jquery-dist#^3.4.1"
+  }
 }
