@@ -1,0 +1,17 @@
+{
+  "name": "angularjs-tooltips-theo",
+  "description": "",
+  "main": "dist/angular-tooltips.js",
+  "authors": [
+    "TheoVragkos <theodoros.vragkos34@outlook.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/theodev3478/tooltips-angularjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
