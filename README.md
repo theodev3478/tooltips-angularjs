@@ -1,4 +1,4 @@
-# tooltips-angularjs
+# tooltips-angularjs-theo
 Tooltips for any element using any html in AngularJS with no requirements.
 
 ## Installation
@@ -6,13 +6,13 @@ Tooltips for any element using any html in AngularJS with no requirements.
 Install through bower
 
 ```
-bower install tooltips-angularjs
+bower install tooltips-angularjs-theo
 ```
 
 or npm
 
 ```
-npm install angularjs-tooltips
+npm install angularjs-tooltips-theo
 ```
 
 Include the library files
