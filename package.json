@@ -1,5 +1,5 @@
 {
-  "name": "angularjs-tooltips-theo",
+  "name": "angularjs-tippy-tooltips",
   "version": "1.0.0",
   "license": "MIT",
   "main": "dist/angular-tooltips.js",
